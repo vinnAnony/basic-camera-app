@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AI Detection</string>
+
+    <string name="corn">Corn</string>
+    <string name="potato">Potatoes</string>
+    <string name="apple">Apples</string>
+    <string name="tomato">Tomatoes</string>
+</resources>
